@@ -1,0 +1,85 @@
+2026-07-03 01:20:49 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 01:20:49 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 01:20:54 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 01:20:54 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 01:20:54 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 01:20:55 INFO  ProductDetailsTest:49 - Starting test: Product Details Verification for keyword: Bags
+2026-07-03 01:20:55 ERROR BaseTest:53 - Test Failed: testVerifyAvailableProductDetails - Screenshot attached.
+2026-07-03 01:20:55 INFO  BaseTest:64 - Driver closed successfully
+2026-07-03 01:22:56 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 01:22:56 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 01:22:57 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 01:22:57 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 01:22:57 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 01:22:58 INFO  ProductDetailsTest:49 - Starting test: Product Details Verification for keyword: Bags
+2026-07-03 01:23:03 INFO  ProductDetailsTest:52 - Search performed successfully for: Bags
+2026-07-03 01:23:06 ERROR BaseTest:53 - Test Failed: testVerifyAvailableProductDetails - Screenshot attached.
+2026-07-03 01:23:06 INFO  BaseTest:64 - Driver closed successfully
+2026-07-03 01:25:32 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 01:25:32 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 01:25:33 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 01:25:33 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 01:25:33 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 01:25:33 INFO  ProductDetailsTest:49 - Starting test: Product Details Verification for keyword: Bags
+2026-07-03 01:25:39 INFO  ProductDetailsTest:52 - Search performed successfully for: Bags
+2026-07-03 01:25:43 ERROR BaseTest:53 - Test Failed: testVerifyAvailableProductDetails - Screenshot attached.
+2026-07-03 01:25:43 INFO  BaseTest:64 - Driver closed successfully
+2026-07-03 01:28:07 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 01:28:07 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 01:28:09 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 01:28:09 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 01:28:09 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 01:28:10 INFO  ProductDetailsTest:49 - Starting test: Product Details Verification for keyword: Bags
+2026-07-03 01:28:28 INFO  ProductDetailsTest:52 - Search performed successfully for: Bags
+2026-07-03 01:28:43 INFO  ProductDetailsTest:56 - Navigated to page number: 2
+2026-07-03 01:28:47 INFO  ProductDetailsTest:58 - Valid product identified and details page opened. Title: astroida, Price: 250.0
+2026-07-03 01:28:53 INFO  ProductDetailsTest:62 - Captured actual data from details page - Title: astroida organizer bag xl 10 bags, Price: 250.0
+2026-07-03 01:28:53 INFO  ProductDetailsTest:67 - Title validation passed.
+2026-07-03 01:28:53 INFO  ProductDetailsTest:70 - Price validation passed.
+2026-07-03 01:28:54 INFO  ProductDetailsTest:74 - All UI element verifications completed.
+2026-07-03 01:29:01 INFO  ProductDetailsPage:108 - Product added to cart successfully.
+2026-07-03 01:29:01 INFO  ProductDetailsTest:77 - Test completed successfully.
+2026-07-03 01:29:01 INFO  BaseTest:64 - Driver closed successfully
+2026-07-03 02:08:13 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 02:08:13 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 02:08:15 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 02:08:15 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 02:08:15 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 02:08:15 INFO  ProductDetailsTest:49 - Starting test: Product Details Verification for keyword: Bags
+2026-07-03 02:08:19 INFO  ProductDetailsTest:52 - Search performed successfully for: Bags
+2026-07-03 02:08:22 INFO  ProductDetailsTest:56 - Navigated to page number: 2
+2026-07-03 02:08:25 INFO  ProductDetailsTest:58 - Valid product identified and details page opened. Title: rahala, Price: 1250.0
+2026-07-03 02:08:31 INFO  ProductDetailsTest:62 - Captured actual data from details page - Title: rahala expandable laptop backpack 27l for men & women – waterproof multi-purpose backpack with usb port & anti-theft design – fits 17 inch laptop – ral2201, black, Price: 1250.0
+2026-07-03 02:08:31 INFO  ProductDetailsTest:67 - Title validation passed.
+2026-07-03 02:08:31 INFO  ProductDetailsTest:70 - Price validation passed.
+2026-07-03 02:08:32 INFO  ProductDetailsTest:74 - All UI element verifications completed.
+2026-07-03 02:08:36 INFO  ProductDetailsPage:108 - Product added to cart successfully.
+2026-07-03 02:08:36 INFO  ProductDetailsTest:77 - Test completed successfully.
+2026-07-03 02:08:36 INFO  BaseTest:64 - Driver closed successfully
+2026-07-03 14:39:35 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 14:39:35 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 14:39:37 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 14:39:37 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 14:39:37 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 14:39:37 INFO  SearchTest:15 - Testing Home and Search functionality
+2026-07-03 14:39:37 DEBUG SearchTest:16 - Home Page opened successfully
+2026-07-03 14:39:39 DEBUG SearchTest:19 - Performing search for product: Mouse
+2026-07-03 14:39:53 INFO  BaseTest:64 - Driver closed successfully
+2026-07-03 14:39:53 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 14:39:53 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 14:39:56 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 14:39:56 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 14:39:56 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 14:39:56 INFO  SearchTest:15 - Testing Home and Search functionality
+2026-07-03 14:39:56 DEBUG SearchTest:16 - Home Page opened successfully
+2026-07-03 14:39:56 DEBUG SearchTest:19 - Performing search for product: Mouse
+2026-07-03 14:40:06 INFO  BaseTest:64 - Driver closed successfully
+2026-07-03 14:40:06 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 14:40:06 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 14:40:07 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 14:40:07 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 14:40:07 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 14:40:07 INFO  SearchTest:15 - Testing Home and Search functionality
+2026-07-03 14:40:07 DEBUG SearchTest:16 - Home Page opened successfully
+2026-07-03 14:40:17 DEBUG SearchTest:19 - Performing search for product: Mouse
+2026-07-03 14:40:28 INFO  BaseTest:64 - Driver closed successfully

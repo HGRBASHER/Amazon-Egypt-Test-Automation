@@ -1,0 +1,276 @@
+2026-07-03 01:20:49 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 01:20:49 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 01:20:54 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 01:20:54 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 01:20:54 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 01:20:55 INFO  ProductDetailsTest:49 - Starting test: Product Details Verification for keyword: Bags
+2026-07-03 01:20:55 ERROR BaseTest:53 - Test Failed: testVerifyAvailableProductDetails - Screenshot attached.
+2026-07-03 01:20:55 INFO  BaseTest:64 - Driver closed successfully
+2026-07-03 01:22:56 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 01:22:56 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 01:22:57 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 01:22:57 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 01:22:57 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 01:22:58 INFO  ProductDetailsTest:49 - Starting test: Product Details Verification for keyword: Bags
+2026-07-03 01:23:03 INFO  ProductDetailsTest:52 - Search performed successfully for: Bags
+2026-07-03 01:23:06 ERROR BaseTest:53 - Test Failed: testVerifyAvailableProductDetails - Screenshot attached.
+2026-07-03 01:23:06 INFO  BaseTest:64 - Driver closed successfully
+2026-07-03 01:25:32 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 01:25:32 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 01:25:33 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 01:25:33 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 01:25:33 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 01:25:33 INFO  ProductDetailsTest:49 - Starting test: Product Details Verification for keyword: Bags
+2026-07-03 01:25:39 INFO  ProductDetailsTest:52 - Search performed successfully for: Bags
+2026-07-03 01:25:43 ERROR BaseTest:53 - Test Failed: testVerifyAvailableProductDetails - Screenshot attached.
+2026-07-03 01:25:43 INFO  BaseTest:64 - Driver closed successfully
+2026-07-03 01:28:07 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 01:28:07 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 01:28:09 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 01:28:09 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 01:28:09 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 01:28:10 INFO  ProductDetailsTest:49 - Starting test: Product Details Verification for keyword: Bags
+2026-07-03 01:28:28 INFO  ProductDetailsTest:52 - Search performed successfully for: Bags
+2026-07-03 01:28:43 INFO  ProductDetailsTest:56 - Navigated to page number: 2
+2026-07-03 01:28:47 INFO  ProductDetailsTest:58 - Valid product identified and details page opened. Title: astroida, Price: 250.0
+2026-07-03 01:28:53 INFO  ProductDetailsTest:62 - Captured actual data from details page - Title: astroida organizer bag xl 10 bags, Price: 250.0
+2026-07-03 01:28:53 INFO  ProductDetailsTest:67 - Title validation passed.
+2026-07-03 01:28:53 INFO  ProductDetailsTest:70 - Price validation passed.
+2026-07-03 01:28:54 INFO  ProductDetailsTest:74 - All UI element verifications completed.
+2026-07-03 01:29:01 INFO  ProductDetailsPage:108 - Product added to cart successfully.
+2026-07-03 01:29:01 INFO  ProductDetailsTest:77 - Test completed successfully.
+2026-07-03 01:29:01 INFO  BaseTest:64 - Driver closed successfully
+2026-07-03 02:08:13 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 02:08:13 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 02:08:15 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 02:08:15 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 02:08:15 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 02:08:15 INFO  ProductDetailsTest:49 - Starting test: Product Details Verification for keyword: Bags
+2026-07-03 02:08:19 INFO  ProductDetailsTest:52 - Search performed successfully for: Bags
+2026-07-03 02:08:22 INFO  ProductDetailsTest:56 - Navigated to page number: 2
+2026-07-03 02:08:25 INFO  ProductDetailsTest:58 - Valid product identified and details page opened. Title: rahala, Price: 1250.0
+2026-07-03 02:08:31 INFO  ProductDetailsTest:62 - Captured actual data from details page - Title: rahala expandable laptop backpack 27l for men & women – waterproof multi-purpose backpack with usb port & anti-theft design – fits 17 inch laptop – ral2201, black, Price: 1250.0
+2026-07-03 02:08:31 INFO  ProductDetailsTest:67 - Title validation passed.
+2026-07-03 02:08:31 INFO  ProductDetailsTest:70 - Price validation passed.
+2026-07-03 02:08:32 INFO  ProductDetailsTest:74 - All UI element verifications completed.
+2026-07-03 02:08:36 INFO  ProductDetailsPage:108 - Product added to cart successfully.
+2026-07-03 02:08:36 INFO  ProductDetailsTest:77 - Test completed successfully.
+2026-07-03 02:08:36 INFO  BaseTest:64 - Driver closed successfully
+2026-07-03 14:39:35 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 14:39:35 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 14:39:37 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 14:39:37 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 14:39:37 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 14:39:37 INFO  SearchTest:15 - Testing Home and Search functionality
+2026-07-03 14:39:37 DEBUG SearchTest:16 - Home Page opened successfully
+2026-07-03 14:39:39 DEBUG SearchTest:19 - Performing search for product: Mouse
+2026-07-03 14:39:53 INFO  BaseTest:64 - Driver closed successfully
+2026-07-03 14:39:53 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 14:39:53 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 14:39:56 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 14:39:56 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 14:39:56 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 14:39:56 INFO  SearchTest:15 - Testing Home and Search functionality
+2026-07-03 14:39:56 DEBUG SearchTest:16 - Home Page opened successfully
+2026-07-03 14:39:56 DEBUG SearchTest:19 - Performing search for product: Mouse
+2026-07-03 14:40:06 INFO  BaseTest:64 - Driver closed successfully
+2026-07-03 14:40:06 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 14:40:06 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 14:40:07 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 14:40:07 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 14:40:07 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 14:40:07 INFO  SearchTest:15 - Testing Home and Search functionality
+2026-07-03 14:40:07 DEBUG SearchTest:16 - Home Page opened successfully
+2026-07-03 14:40:17 DEBUG SearchTest:19 - Performing search for product: Mouse
+2026-07-03 14:40:28 INFO  BaseTest:64 - Driver closed successfully
+2026-07-03 14:40:28 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 14:40:28 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 14:40:32 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 14:40:32 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 14:40:32 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 14:40:32 INFO  SearchTest:15 - Testing Home and Search functionality
+2026-07-03 14:40:32 DEBUG SearchTest:16 - Home Page opened successfully
+2026-07-03 14:40:32 DEBUG SearchTest:19 - Performing search for product: Mouse
+2026-07-03 14:40:45 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 14:40:45 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 14:40:48 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 14:40:48 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 14:40:48 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 14:40:48 INFO  SearchTest:15 - Testing Home and Search functionality
+2026-07-03 14:40:48 DEBUG SearchTest:16 - Home Page opened successfully
+2026-07-03 14:40:48 DEBUG SearchTest:19 - Performing search for product: Mouse
+2026-07-03 14:41:03 ERROR SearchResultsPage:311 - Error adding product to cart: Expected condition failed: waiting for value to contain "puis-card-container". (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir16152_143...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60406}, goog:processID: 6980, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60406/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d3d67079cf70a2cc5b600a83836af874
+2026-07-03 14:41:13 ERROR SearchResultsPage:311 - Error adding product to cart: Expected condition failed: waiting for value to contain "puis-card-container". (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir16152_143...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60406}, goog:processID: 6980, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60406/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d3d67079cf70a2cc5b600a83836af874
+2026-07-03 14:41:24 ERROR SearchResultsPage:311 - Error adding product to cart: Expected condition failed: waiting for value to contain "puis-card-container". (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir16152_143...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60406}, goog:processID: 6980, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60406/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d3d67079cf70a2cc5b600a83836af874
+2026-07-03 14:41:24 INFO  BaseTest:64 - Driver closed successfully
+2026-07-03 14:41:24 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 14:41:24 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 14:41:27 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 14:41:27 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 14:41:27 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 14:41:27 INFO  SearchTest:15 - Testing Home and Search functionality
+2026-07-03 14:41:27 DEBUG SearchTest:16 - Home Page opened successfully
+2026-07-03 14:41:27 DEBUG SearchTest:19 - Performing search for product: Mouse
+2026-07-03 14:41:43 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 14:41:43 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 14:41:45 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 14:41:45 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 14:41:45 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 14:41:46 INFO  SearchTest:15 - Testing Home and Search functionality
+2026-07-03 14:41:46 DEBUG SearchTest:16 - Home Page opened successfully
+2026-07-03 14:41:47 DEBUG SearchTest:19 - Performing search for product: Mouse
+2026-07-03 14:42:01 ERROR SearchResultsPage:311 - Error adding product to cart: Expected condition failed: waiting for value to contain "puis-card-container". (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir23260_328...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56448}, goog:processID: 10204, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56448/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7af85fb2c6959da9a20a06b8c57a10d7
+2026-07-03 14:42:12 ERROR SearchResultsPage:311 - Error adding product to cart: Expected condition failed: waiting for value to contain "puis-card-container". (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir23260_328...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56448}, goog:processID: 10204, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56448/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7af85fb2c6959da9a20a06b8c57a10d7
+2026-07-03 14:42:22 ERROR SearchResultsPage:311 - Error adding product to cart: Expected condition failed: waiting for value to contain "puis-card-container". (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir23260_328...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56448}, goog:processID: 10204, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56448/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7af85fb2c6959da9a20a06b8c57a10d7
+2026-07-03 14:42:22 ERROR BaseTest:53 - Test Failed: testHomeAndSearch - Screenshot attached.
+2026-07-03 14:42:23 INFO  BaseTest:64 - Driver closed successfully
+2026-07-03 14:44:03 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 14:44:03 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 14:44:04 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 14:44:04 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 14:44:04 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 14:44:04 INFO  SearchTest:15 - Testing Home and Search functionality
+2026-07-03 14:44:04 DEBUG SearchTest:16 - Home Page opened successfully
+2026-07-03 14:44:08 DEBUG SearchTest:19 - Performing search for product: Bags
+2026-07-03 14:44:25 ERROR SearchResultsPage:311 - Error adding product to cart: Expected condition failed: waiting for value to contain "puis-card-container". (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir14736_129...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56533}, goog:processID: 23380, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56533/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c5cfcfd8420dae8294064ca13720104e
+2026-07-03 14:44:36 ERROR SearchResultsPage:311 - Error adding product to cart: Expected condition failed: waiting for value to contain "puis-card-container". (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir14736_129...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56533}, goog:processID: 23380, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56533/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c5cfcfd8420dae8294064ca13720104e
+2026-07-03 14:44:36 ERROR BaseTest:53 - Test Failed: testHomeAndSearch - Screenshot attached.
+2026-07-03 14:44:36 INFO  BaseTest:64 - Driver closed successfully
+2026-07-03 14:44:53 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 14:44:53 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 14:44:56 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 14:44:56 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 14:44:56 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 14:44:56 INFO  SearchTest:15 - Testing Home and Search functionality
+2026-07-03 14:44:56 DEBUG SearchTest:16 - Home Page opened successfully
+2026-07-03 14:44:57 DEBUG SearchTest:19 - Performing search for product: Mouse
+2026-07-03 14:45:11 ERROR SearchResultsPage:311 - Error adding product to cart: Expected condition failed: waiting for value to contain "puis-card-container". (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir16512_104...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60805}, goog:processID: 3136, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60805/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: befb1e758061774768c7f3ac06bbea14
+2026-07-03 14:45:22 ERROR SearchResultsPage:311 - Error adding product to cart: Expected condition failed: waiting for value to contain "puis-card-container". (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir16512_104...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60805}, goog:processID: 3136, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60805/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: befb1e758061774768c7f3ac06bbea14
+2026-07-03 14:45:22 ERROR BaseTest:53 - Test Failed: testHomeAndSearch - Screenshot attached.
+2026-07-03 14:45:22 INFO  BaseTest:64 - Driver closed successfully
+2026-07-03 15:15:31 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 15:15:31 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 15:15:34 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 15:15:34 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 15:15:34 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 15:15:35 INFO  SearchTest:15 - Testing Home and Search functionality
+2026-07-03 15:15:35 DEBUG SearchTest:16 - Home Page opened successfully
+2026-07-03 15:15:35 DEBUG SearchTest:19 - Performing search for product: Mouse
+2026-07-03 15:15:35 ERROR BaseTest:56 - Failed to take screenshot: invalid session id
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [72c458274d74785c96411e9795fab55c, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir20684_186...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54516}, goog:processID: 8072, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54516/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 72c458274d74785c96411e9795fab55c
+2026-07-03 15:15:35 INFO  BaseTest:64 - Driver closed successfully
+2026-07-03 15:15:46 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 15:15:46 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 15:15:48 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 15:15:48 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 15:15:48 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 15:15:48 INFO  SearchTest:15 - Testing Home and Search functionality
+2026-07-03 15:15:48 DEBUG SearchTest:16 - Home Page opened successfully
+2026-07-03 15:15:49 DEBUG SearchTest:19 - Performing search for product: Mouse
+2026-07-03 15:16:04 ERROR SearchResultsPage:311 - Error adding product to cart: Expected condition failed: waiting for value to contain "puis-card-container". (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir22908_198...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61559}, goog:processID: 18328, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61559/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f5b5da6f9e1d755df3802e4a4da5f1aa
+2026-07-03 15:16:14 ERROR SearchResultsPage:311 - Error adding product to cart: Expected condition failed: waiting for value to contain "puis-card-container". (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir22908_198...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61559}, goog:processID: 18328, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61559/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f5b5da6f9e1d755df3802e4a4da5f1aa
+2026-07-03 15:16:14 INFO  BaseTest:64 - Driver closed successfully
+2026-07-03 15:22:04 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 15:22:04 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 15:22:07 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 15:22:07 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 15:22:07 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 15:22:07 INFO  SearchTest:15 - Testing Home and Search functionality
+2026-07-03 15:22:07 DEBUG SearchTest:16 - Home Page opened successfully
+2026-07-03 15:22:10 DEBUG SearchTest:19 - Performing search for product: Mouse
+2026-07-03 15:22:14 INFO  BaseTest:64 - Driver closed successfully
+2026-07-03 15:22:34 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 15:22:34 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 15:22:35 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 15:22:35 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 15:22:35 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 15:22:35 INFO  SearchTest:15 - Testing Home and Search functionality
+2026-07-03 15:22:35 DEBUG SearchTest:16 - Home Page opened successfully
+2026-07-03 15:22:37 DEBUG SearchTest:19 - Performing search for product: Mouse
+2026-07-03 15:22:42 INFO  BaseTest:64 - Driver closed successfully
+2026-07-03 15:22:57 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 15:22:57 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 15:22:59 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 15:22:59 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 15:22:59 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 15:22:59 INFO  SearchTest:15 - Testing Home and Search functionality
+2026-07-03 15:22:59 DEBUG SearchTest:16 - Home Page opened successfully
+2026-07-03 15:23:02 DEBUG SearchTest:19 - Performing search for product: Mouse
+2026-07-03 15:23:17 ERROR SearchResultsPage:311 - Error adding product to cart: Expected condition failed: waiting for value to contain "puis-card-container". (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir16128_403...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59503}, goog:processID: 20248, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59503/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d31437259647e4ac38a26a7d20741782
+2026-07-03 15:23:27 ERROR SearchResultsPage:311 - Error adding product to cart: Expected condition failed: waiting for value to contain "puis-card-container". (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir16128_403...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59503}, goog:processID: 20248, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59503/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d31437259647e4ac38a26a7d20741782
+2026-07-03 15:23:28 INFO  BaseTest:64 - Driver closed successfully

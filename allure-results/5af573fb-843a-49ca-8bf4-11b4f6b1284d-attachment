@@ -1,0 +1,17 @@
+2026-07-03 01:20:49 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 01:20:49 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 01:20:54 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 01:20:54 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 01:20:54 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 01:20:55 INFO  ProductDetailsTest:49 - Starting test: Product Details Verification for keyword: Bags
+2026-07-03 01:20:55 ERROR BaseTest:53 - Test Failed: testVerifyAvailableProductDetails - Screenshot attached.
+2026-07-03 01:20:55 INFO  BaseTest:64 - Driver closed successfully
+2026-07-03 01:22:56 DEBUG BaseTest:34 - json File Manager initialized
+2026-07-03 01:22:56 DEBUG BaseTest:36 - configHandler initialized
+2026-07-03 01:22:57 DEBUG BaseTest:40 - DriverSingleton initialized
+2026-07-03 01:22:57 DEBUG BaseTest:42 - Explicit wait initialized
+2026-07-03 01:22:57 DEBUG BaseTest:44 - SoftAssert initialized
+2026-07-03 01:22:58 INFO  ProductDetailsTest:49 - Starting test: Product Details Verification for keyword: Bags
+2026-07-03 01:23:03 INFO  ProductDetailsTest:52 - Search performed successfully for: Bags
+2026-07-03 01:23:06 ERROR BaseTest:53 - Test Failed: testVerifyAvailableProductDetails - Screenshot attached.
+2026-07-03 01:23:06 INFO  BaseTest:64 - Driver closed successfully
