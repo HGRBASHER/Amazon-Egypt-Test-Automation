@@ -1,4 +1,4 @@
-# 1. Project Title
+# Amazon Project - TestNG Automation Framework
 
 **Amazon_TestNG** — End-to-End UI Test Automation for Amazon E-Commerce Platform
 
@@ -193,7 +193,7 @@ SearchResultsPage results = searchPage.searchForProduct("Mouse");
 ┌──────────────────────────────────────────────────────────────┐
 │                    REAL BROWSER                              │
 │              (Chrome / Firefox / Edge)                       │
-└─────���──────────────────────────────────────────────────────┘
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ## Layer Explanations
