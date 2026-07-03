@@ -1414,14 +1414,14 @@ mvn -Dgroups=smoke test   # Only smoke tests
 
 # 22. Author
 
-Hagar Basheer
+# Hagar Basheer
 
 ---
 
 # 23. Contact
 
-- **LinkedIn:** linkedin.com/in/hagarbasheer (http://linkedin.com/in/hagarbasheer).
-- **GitHub:** (https://github.com/HGRBASHER)
+- **LinkedIn:** http://linkedin.com/in/hagarbasheer
+- **GitHub:** https://github.com/HGRBASHER
 - **Email:** hagareid307@gmail.com
 
 ---
