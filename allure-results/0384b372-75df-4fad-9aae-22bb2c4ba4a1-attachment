@@ -1,0 +1,113 @@
+2026-07-03 17:37:22 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-03 17:37:22 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-03 17:37:24 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-03 17:37:24 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-03 17:37:24 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-03 17:37:43 ERROR SearchResultsPage:311 - Error adding product to cart: Expected condition failed: waiting for element ([[[[ChromeDriver: chrome on windows (fe96e653319ab33aafc864a3d8f6587d)] -> xpath: //div[@data-component-type='s-search-result']]] -> xpath: .//button[contains(@id, 'a-autoid') or contains(@class, 'a-button-text')]]) to become stale (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir12676_139...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57429}, goog:processID: 1384, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57429/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fe96e653319ab33aafc864a3d8f6587d
+2026-07-03 17:37:53 ERROR SearchResultsPage:311 - Error adding product to cart: Expected condition failed: waiting for element ([[[[ChromeDriver: chrome on windows (fe96e653319ab33aafc864a3d8f6587d)] -> xpath: //div[@data-component-type='s-search-result']]] -> xpath: .//button[contains(@id, 'a-autoid') or contains(@class, 'a-button-text')]]) to become stale (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir12676_139...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57429}, goog:processID: 1384, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57429/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fe96e653319ab33aafc864a3d8f6587d
+2026-07-03 17:37:55 INFO  CartStepDef:164 - All assertions finalized.
+2026-07-03 17:37:55 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-03 17:37:55 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-03 17:37:55 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-03 17:37:56 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-03 17:37:56 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-03 17:37:56 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-03 17:38:00 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-03 17:38:37 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-03 17:38:37 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-03 17:38:39 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-03 17:38:39 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-03 17:38:39 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-03 17:39:01 ERROR SearchResultsPage:311 - Error adding product to cart: Expected condition failed: waiting for element ([[[[ChromeDriver: chrome on windows (513df965768d6610859f3ad612b3103e)] -> xpath: //div[@data-component-type='s-search-result']]] -> xpath: .//button[contains(@id, 'a-autoid') or contains(@class, 'a-button-text')]]) to become stale (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir18876_139...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58445}, goog:processID: 14244, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58445/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 513df965768d6610859f3ad612b3103e
+2026-07-03 17:39:11 ERROR SearchResultsPage:311 - Error adding product to cart: Expected condition failed: waiting for element ([[[[ChromeDriver: chrome on windows (513df965768d6610859f3ad612b3103e)] -> xpath: //div[@data-component-type='s-search-result']]] -> xpath: .//button[contains(@id, 'a-autoid') or contains(@class, 'a-button-text')]]) to become stale (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir18876_139...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58445}, goog:processID: 14244, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58445/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 513df965768d6610859f3ad612b3103e
+2026-07-03 17:39:13 INFO  CartStepDef:164 - All assertions finalized.
+2026-07-03 17:39:13 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-03 17:39:13 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-03 17:39:13 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-03 17:39:14 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-03 17:39:14 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-03 17:39:14 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-03 17:39:19 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-03 17:39:19 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-03 17:39:19 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-03 17:39:21 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-03 17:39:21 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-03 17:39:21 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-03 17:39:25 INFO  SearchResultsPage:102 - Setting price slider [MIN] value to: [30] via JavaScript
+2026-07-03 17:39:26 DEBUG SearchResultsPage:124 - Current Slider [MIN] text bound is: 370 EGP
+2026-07-03 17:39:26 INFO  SearchResultsPage:102 - Setting price slider [MAX] value to: [130] via JavaScript
+2026-07-03 17:39:26 DEBUG SearchResultsPage:124 - Current Slider [MAX] text bound is: 2,950 EGP & above
+2026-07-03 17:39:26 DEBUG SearchResultsPage:124 - Current Slider [MIN] text bound is: 670 EGP
+2026-07-03 17:39:26 DEBUG SearchResultsPage:124 - Current Slider [MAX] text bound is: 2,950 EGP & above
+2026-07-03 17:39:30 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-03 17:39:30 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-03 17:39:30 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-03 17:39:31 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-03 17:39:31 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-03 17:39:31 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-03 17:39:45 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-03 17:39:45 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-03 17:39:45 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-03 17:39:47 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-03 17:39:47 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-03 17:39:47 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-03 17:39:54 INFO  ProductDetailsStepDef:90 - Applied gender filter: Men
+2026-07-03 17:39:55 INFO  ProductDetailsStepDef:85 - Navigated to page number: 2
+2026-07-03 17:39:58 INFO  ProductDetailsStepDef:73 - Valid product identified and details page opened.
+2026-07-03 17:40:09 INFO  ProductDetailsPage:107 - Product added to cart successfully.
+2026-07-03 17:40:09 INFO  ProductDetailsStepDef:78 - Product added to cart successfully
+2026-07-03 17:40:09 INFO  CartStepDef:164 - All assertions finalized.
+2026-07-03 17:40:09 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-03 17:40:09 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-03 17:40:09 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-03 17:40:13 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-03 17:40:13 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-03 17:40:13 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-03 17:40:21 INFO  ProductDetailsPage:107 - Product added to cart successfully.
+2026-07-03 17:40:32 INFO  ProductDetailsPage:107 - Product added to cart successfully.
+2026-07-03 17:40:35 INFO  CartPage:129 - Searching for product containing: [Wireless Gaming Mouse] to remove it
+2026-07-03 17:40:36 INFO  CartPage:143 - Delete button clicked successfully.
+2026-07-03 17:40:36 INFO  CartPage:147 - Cart updated dynamically and item count decreased successfully.
+2026-07-03 17:40:36 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-03 17:40:36 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-03 17:40:36 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-03 17:40:41 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-03 17:40:41 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-03 17:40:41 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-03 17:40:56 INFO  ProductDetailsPage:107 - Product added to cart successfully.
+2026-07-03 17:41:13 INFO  ProductDetailsPage:107 - Product added to cart successfully.
+2026-07-03 17:41:16 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-03 17:41:16 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-03 17:41:16 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-03 17:41:18 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-03 17:41:18 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-03 17:41:18 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-03 17:41:30 INFO  ProductDetailsPage:107 - Product added to cart successfully.
+2026-07-03 17:41:46 INFO  CartPage:115 - Reached limit or button became inactive during update: Expected condition failed: waiting for element found by By.xpath: //div[@class='a-stepper-controls']//span[@data-a-selector='inner-value'] to have text "4". Current text: "3" (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir18928_895...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60308}, goog:processID: 1804, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60308/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 07a1eb56b41e8f914dde28c62c03c2b5
+2026-07-03 17:41:47 INFO  CartStepDef:164 - All assertions finalized.
+2026-07-03 17:41:47 INFO  HooksHandler:59 - Driver closed successfully

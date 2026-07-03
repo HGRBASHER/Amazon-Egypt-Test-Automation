@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="MySuite">
+    <test name="Search Test">
+        <classes>
+            <class name="tests.Search.SearchRunner"/>
+        </classes>
+    </test>
+    <test name="Search Results Test">
+        <classes>
+            <class name="tests.SearchResults.SearchResultsRunner"/>
+        </classes>
+    </test>
+    <test name="Product Details Test">
+        <classes>
+            <class name="tests.ProductDetails.ProductDetailsRunner"/>
+        </classes>
+    </test>
+    <test name="Shopping Cart Test">
+        <classes>
+            <class name="tests.Cart.CartRunner"/>
+        </classes>
+    </test>
+</suite>

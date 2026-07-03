@@ -1,0 +1,6 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"0","","0","Product Search Functionality - Negative Scenarios","1","0","Verify search functionality with invalid search term","0"
+"0","","0","Product Search Functionality","1","0","Verify search functionality and result validation","0"
+"1","","0","Product Filter and Sorting Functionality","2","0","Verify filter application and sorting order for search results","0"
+"1","","0","Product Details Verification","1","0","Verify that product details match search results page data","0"
+"0","","0","Product Details Verification","1","0","Verify integrity of product details page UI components","0"

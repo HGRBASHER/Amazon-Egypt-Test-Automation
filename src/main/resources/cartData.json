@@ -1,0 +1,29 @@
+{
+  "search": {
+    "validKeyword": "laptop",
+    "invalidKeyword": "asdfghjkl123456789",
+    "brandProduct" : "Lenovo"
+
+  },
+  "productDetails": {
+    "prod1Name": "Mixed Media",
+    "prod2Name": "Posters & Prints",
+    "firstProduct": "Wireless Gaming Mouse",
+    "secondProduct": "Wireless Gaming Mouse - Black",
+    "thirdProduct": {"productName": "Bags","targetPage" :2,"productBrand": "Mintra","productGender" : "Men"}
+  },
+  "cart": {
+    "product" : "laptop",
+    "prod1Index": 0,
+    "prod2Index": 1,
+    "quantities": {
+      "increasedQty": 5,
+      "decreasedQty": 2
+    }
+  },
+  "filterAndSort": {
+    "PriceStep": {"minPriceStep": "30", "maxPriceStep": "130"},
+    "sortOption": "Price: Low to High",
+    "brandFilter": "Redragon"
+  }
+}
