@@ -1,10 +1,8 @@
 # Amazon Project - TestNG Automation Framework
 
-**Amazon_TestNG** — End-to-End UI Test Automation for Amazon E-Commerce Platform
-
 ---
 
-# 2. About the Project
+# 1. About the Project
 
 ## Purpose
 
@@ -51,7 +49,7 @@ Manual testing of e-commerce flows is time-consuming and prone to human error. T
 
 ---
 
-# 3. What is Selenium & TestNG?
+# 2. What is Selenium & TestNG?
 
 If you're new to automation, here's what each piece does in plain English:
 
@@ -138,7 +136,7 @@ SearchResultsPage results = searchPage.searchForProduct("Mouse");
 
 ---
 
-# 4. Technologies Used
+# 3. Technologies Used
 
 | Technology | Version | Purpose | Used in Project |
 |---|---|---|---|
@@ -155,7 +153,7 @@ SearchResultsPage results = searchPage.searchForProduct("Mouse");
 
 ---
 
-# 5. Framework Architecture
+# 4. Framework Architecture
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
@@ -206,7 +204,7 @@ SearchResultsPage results = searchPage.searchForProduct("Mouse");
 
 ---
 
-# 6. Folder Structure
+# 5. Folder Structure
 
 ```
 Amazon Project_TestNG/
@@ -273,7 +271,7 @@ Amazon Project_TestNG/
 
 ---
 
-# 7. Project Prerequisites
+# 6. Project Prerequisites
 
 ## Required Software
 
@@ -303,7 +301,7 @@ See [Future Improvements](#22-future-improvements) for WebDriverManager integrat
 
 ---
 
-# 8. Downloading the Project
+# 7. Downloading the Project
 
 ## Via Git (Recommended)
 
@@ -341,7 +339,7 @@ mvn -U clean install
 
 ---
 
-# 9. Project Configuration
+# 8. Project Configuration
 
 ## Configuration Files
 
@@ -428,7 +426,7 @@ String keyword = jsonFileManager.getValue("search.validKeyword").toString();
 
 ---
 
-# 10. Understanding TestNG
+# 9. Understanding TestNG
 
 ## What is TestNG?
 
@@ -545,7 +543,7 @@ public void testHomeAndSearch(){
 
 ---
 
-# 11. TestNG Lifecycle
+# 10. TestNG Lifecycle
 
 ## Execution Order (Per Test Method)
 
@@ -629,7 +627,7 @@ TestNG Suite Ends
 
 ---
 
-# 12. Install Dependencies
+# 11. Install Dependencies
 
 ## What Maven Does
 
@@ -677,7 +675,7 @@ First run will download ~200MB+ of dependencies. Subsequent runs will be faster 
 
 ---
 
-# 13. Run Tests
+# 12. Run Tests
 
 ## Method 1: Maven (Full Suite via TestNG.xml)
 
@@ -737,7 +735,7 @@ mvn -Dgroups=smoke test
 
 ---
 
-# 14. Test Reports
+# 13. Test Reports
 
 ## Reporting Frameworks Used
 
@@ -799,7 +797,7 @@ Then open `target/site/surefire-report.html` in a browser.
 
 ---
 
-# 15. Test Groups
+# 14. Test Groups
 
 **This project currently does NOT implement TestNG groups.**
 
@@ -824,7 +822,7 @@ mvn -Dgroups=regression test   # Only regression tests
 
 ---
 
-# 16. Screenshots
+# 15. Screenshots
 
 ## When Screenshots are Captured
 
@@ -873,7 +871,7 @@ public static File getScreenShot(WebDriver driver, String filePath) throws IOExc
 
 ---
 
-# 17. Logging
+# 16. Logging
 
 ## Logging Framework
 
@@ -923,7 +921,7 @@ Allure.addAttachment("Log File", new FileInputStream("logs/application.log"));
 
 ---
 
-# 18. Test Coverage
+# 17. Test Coverage
 
 This table reflects all test classes and methods found in the project. Do not assume coverage beyond what is listed.
 
@@ -936,7 +934,7 @@ This table reflects all test classes and methods found in the project. Do not as
 
 ---
 
-# 19. Design Patterns & Best Practices
+# 18. Design Patterns & Best Practices
 
 ## 1. Page Object Model (POM)
 
@@ -1076,7 +1074,7 @@ public class SearchTest extends BaseTest { ... }
 
 ---
 
-# 20. Troubleshooting
+# 19. Troubleshooting
 
 | Issue | Likely Cause | Solution |
 |---|---|---|
@@ -1094,7 +1092,7 @@ public class SearchTest extends BaseTest { ... }
 
 ---
 
-# 21. FAQ
+# 20. FAQ
 
 **Q1: How do I change which browser the tests use?**
 
@@ -1223,7 +1221,7 @@ A:
 
 ---
 
-# 22. Future Improvements
+# 21. Future Improvements
 
 These improvements are **NOT currently implemented** in the project. Adding them would enhance maintainability and functionality:
 
@@ -1414,13 +1412,13 @@ mvn -Dgroups=smoke test   # Only smoke tests
 
 ---
 
-# 23. Author
+# 22. Author
 
 [AUTHOR_NAME]
 
 ---
 
-# 24. Contact
+# 23. Contact
 
 - **LinkedIn:** [LINKEDIN_URL]
 - **GitHub:** [GITHUB_URL]
@@ -1428,7 +1426,7 @@ mvn -Dgroups=smoke test   # Only smoke tests
 
 ---
 
-# 25. License
+# 24. License
 
 No license file detected in the repository. Defaulting to **MIT License**. Replace with your project's actual license if different.
 
