@@ -300,57 +300,59 @@ Amazon Project_Cucumber/
 │
 ├── src/
 │   ├── main/
-│   │   ├── java/org/example/
-│   │   │   ├── BasePage.java                 # Base class with common wait/click logic
-│   │   │   ├── SearchPage.java               # Page Object for search functionality
-│   │   │   ├── SearchResultsPage.java        # Page Object for search results, filtering, sorting
-│   │   │   ├── ProductDetailsPage.java       # Page Object for product details
-│   │   │   └── CartPage.java                 # Page Object for shopping cart
-│   │   │
+│   │   ├── java/
+│   │   │   └── com/amazon/qa/
+│   │   │       ├── base/
+│   │   │       │   └── BasePage.java                 # Base class with common wait/click logic
+│   │   │       ├── pages/
+│   │   │       │   ├── SearchPage.java               # Page Object for search functionality
+│   │   │       │   ├── SearchResultsPage.java        # Page Object for search results, filtering, sorting
+│   │   │       │   ├── ProductDetailsPage.java       # Page Object for product details
+│   │   │       │   └── CartPage.java                 # Page Object for shopping cart
+│   │   │       └── utils/
+│   │   │            ├── ConfigHandler.java        # Reads config.properties
+│   │   │            ├── JSONFileManager.java      # Reads and parses cartData.json
+│   │   │            ├── ScreenShots.java          # Captures screenshots on failure
+│   │   │            └── PriceUtils.java        # Handles price-related utilities
 │   │   └── resources/
 │   │       ├── config.properties             # URL, browser configuration
 │   │       └── cartData.json                 # Test data (search keywords, product info, filters)
 │   │
 │   └── test/
-│       └── java/tests/
-│           ├── baseTest/
-│           │   └── BaseTest.java             # Parent class holding shared objects (driver, wait, etc.)
-│           │
-│           ├── driver/
-│           │   ├── WebDriverFactory.java     # Factory pattern: creates appropriate browser driver
-│           │   ├── ChromeDriverClass.java    # Chrome driver setup
-│           │   ├── FireFoxDriverClass.java   # Firefox driver setup
-│           │   └── EdgeDriverClass.java      # Edge driver setup
-│           │
-│           ├── hooks/
-│           │   └── HooksHandler.java         # Cucumber hooks: @Before, @AfterStep, @After
-│           │
-│           ├── reuse/
-│           │   ├── ConfigHandler.java        # Reads config.properties
-│           │   ├── JSONFileManager.java      # Reads and parses cartData.json
-│           │   ├── ScreenShots.java          # Captures screenshots on failure
-│           │   └── RetryAnalyzer.java        # Retries failed tests (max 3 attempts)
-│           │
-│           ├── Search/
-│           │   ├── Search.feature            # Positive search scenarios
-│           │   ├── Search_Nagative.feature   # Negative search scenarios
-│           │   ├── SearchStepDef.java        # Step definitions for search
-│           │   └── SearchRunner.java         # Test runner (TestNG) for search tests
-│           │
-│           ├── SearchResults/
-│           │   ├── SearchResults.feature     # Filter and sort scenarios
-│           │   ├── SearchResultsStepDef.java # Step definitions for filtering/sorting
-│           │   └── SearchResultsRunner.java  # Test runner for search results
-│           │
-│           ├── ProductDetails/
-│           │   ├── ProductDetails.feature    # Product details verification scenarios
-│           │   ├── ProductDetailsStepDef.java# Step definitions for product details
-│           │   └── ProductDetailsRunner.java # Test runner for product details
-│           │
-│           └── Cart/
-│               ├── Cart.feature              # Shopping cart scenarios
-│               ├── CartStepDef.java          # Step definitions for cart operations
-│               └── CartRunner.java           # Test runner for cart tests
+│       └── java
+│           └── com/amazon/qa/tests
+│               ├── base/
+│               │   └── BaseTest.java             # Parent class holding shared objects (driver, wait, etc.)
+│               │
+│               ├── driver/
+│               │   ├── WebDriverFactory.java     # Factory pattern: creates appropriate browser driver
+│               │   ├── ChromeDriverClass.java    # Chrome driver setup
+│               │   ├── FireFoxDriverClass.java   # Firefox driver setup
+│               │   └── EdgeDriverClass.java      # Edge driver setup
+│               │
+│               ├── hooks/
+│               │   └── HooksHandler.java         # Cucumber hooks: @Before, @AfterStep, @After
+│               │
+│               ├── Search/
+│               │   ├── Search.feature            # Positive search scenarios
+│               │   ├── Search_Nagative.feature   # Negative search scenarios
+│               │   ├── SearchStepDef.java        # Step definitions for search
+│               │   └── SearchRunner.java         # Test runner (TestNG) for search tests
+│               │
+│               ├── SearchResults/
+│               │   ├── SearchResults.feature     # Filter and sort scenarios
+│               │   ├── SearchResultsStepDef.java # Step definitions for filtering/sorting
+│               │   └── SearchResultsRunner.java  # Test runner for search results
+│               │
+│               ├── ProductDetails/
+│               │   ├── ProductDetails.feature    # Product details verification scenarios
+│               │   ├── ProductDetailsStepDef.java# Step definitions for product details
+│               │   └── ProductDetailsRunner.java # Test runner for product details
+│               │
+│               └── Cart/
+│                   ├── Cart.feature              # Shopping cart scenarios
+│                   ├── CartStepDef.java          # Step definitions for cart operations
+│                   └── CartRunner.java           # Test runner for cart tests
 │
 ├── pom.xml                                   # Maven configuration (dependencies, plugins)
 ├── Cucumber_Run.xml                          # TestNG suite configuration
@@ -381,7 +383,7 @@ Before running tests, ensure you have the following installed and configured:
 
 ### 1. Java Development Kit (JDK)
 
-**Required Version:** Java 17 or higher (Project source: 25, target: 17)
+**Required Version:** Java 25 or higher (Project source: 25, target: 25)
 
 **Download:** https://www.oracle.com/java/technologies/downloads/
 
@@ -393,8 +395,8 @@ javac -version
 
 **Expected Output:**
 ```
-java version "17.x.x" ...
-javac 17.x.x
+java version "25.x.x" ...
+javac 25.x.x
 ```
 
 ### 2. Apache Maven
@@ -1994,8 +1996,8 @@ With the condition that you include the original license notice.
 
 ---
 
-**Last Updated:** July 2, 2026 
+**Last Updated:** July 2, 2026
 **Framework Version:** 1.0-SNAPSHOT  
-**Java Compatibility:** Java 17+  
+**Java Compatibility:** Java 25+  
 **Maven Compatibility:** Maven 3.6.0+
 
