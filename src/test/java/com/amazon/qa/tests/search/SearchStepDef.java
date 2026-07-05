@@ -1,15 +1,15 @@
-package tests.com.amazon.qa.tests.search;
+package com.amazon.qa.tests.search;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import com.amazon.qa.pages.CartPage;
 import com.amazon.qa.pages.ProductDetailsPage;
 import org.openqa.selenium.By;
-import tests.com.amazon.qa.tests.base.BaseTest;
+import com.amazon.qa.tests.base.BaseTest;
 
 import java.util.List;
-
 
 public class SearchStepDef extends BaseTest {
     @Given("I am on the Amazon Egypt homepage")

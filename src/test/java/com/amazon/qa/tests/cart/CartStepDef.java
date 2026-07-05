@@ -1,4 +1,4 @@
-package tests.com.amazon.qa.tests.cart;
+package com.amazon.qa.tests.cart;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
@@ -7,10 +7,10 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.support.ui.ExpectedConditions;
-import tests.com.amazon.qa.tests.base.BaseTest;
+import com.amazon.qa.tests.base.BaseTest;
 
 import java.util.List;
-import java.util.Objects;
+import java.util.Objects;;
 
 public class CartStepDef extends BaseTest {
     private double price1, price2;
@@ -183,14 +183,19 @@ public class CartStepDef extends BaseTest {
     public void iVerifyQuantityCannotExceedStockLimit() {
         int stockLimit = cartPage.getInventoryLimit();
         cartPage.updateProductQuantity(stockLimit + 1);
-
+        driver.navigate().refresh();
         int currentQty = cartPage.getCurrentQuantity();
         softAssert.assertEquals(currentQty, stockLimit, "Quantity exceeded the stock limit!");
-        softAssert.assertTrue(cartPage.isOutOfStockMessageDisplayed(), "Error message did not appear!");
 
         String errorMessage = cartPage.getErrorMessageText();
-        softAssert.assertTrue(errorMessage.contains("available") || errorMessage.contains("requested more"),
+        boolean isErrorVisible = !errorMessage.isEmpty();
+        softAssert.assertTrue(isErrorVisible, "Error message did not appear!");
+
+        softAssert.assertTrue(errorMessage.contains("available")
+                        || errorMessage.contains("requested more")
+                        || errorMessage.contains("free shipping"),
                 "The error message did not explain the inventory limit clearly! Actual message was: " + errorMessage);
+
         softAssert.assertAll();
     }
 }

@@ -1,4 +1,5 @@
 Feature: Shopping Cart Management
+
   Scenario Outline: Add two items and remove one to verify cart functionality
     Given I am on the Amazon Egypt homepage
     When I search for and add firstProduct "<item1>" to the cart

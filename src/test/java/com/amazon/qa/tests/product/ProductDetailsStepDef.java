@@ -1,4 +1,4 @@
-package tests.com.amazon.qa.tests.product;
+package com.amazon.qa.tests.product;
 
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.And;
@@ -7,7 +7,7 @@ import io.cucumber.java.en.When;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import com.amazon.qa.pages.SearchResultsPage;
-import tests.com.amazon.qa.tests.base.BaseTest;
+import com.amazon.qa.tests.base.BaseTest;
 
 import java.util.List;
 

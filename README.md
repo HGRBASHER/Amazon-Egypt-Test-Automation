@@ -617,22 +617,22 @@ This TestNG suite configuration file defines which test runners to execute:
 <suite name="MySuite">
     <test name="Search Test">
         <classes>
-            <class name="tests.Search.SearchRunner"/>
+            <class name="search.com.amazon.qa.tests.SearchRunner"/>
         </classes>
     </test>
     <test name="Search Results Test">
         <classes>
-            <class name="tests.SearchResults.SearchResultsRunner"/>
+            <class name="searchResults.com.amazon.qa.tests.SearchResultsRunner"/>
         </classes>
     </test>
     <test name="Product Details Test">
         <classes>
-            <class name="tests.ProductDetails.ProductDetailsRunner"/>
+            <class name="product.com.amazon.qa.tests.ProductDetailsRunner"/>
         </classes>
     </test>
     <test name="Shopping Cart Test">
         <classes>
-            <class name="tests.Cart.CartRunner"/>
+            <class name="cart.com.amazon.qa.tests.CartRunner"/>
         </classes>
     </test>
 </suite>
@@ -1747,7 +1747,7 @@ Each row in Examples = one test execution.
 
 | Issue | Cause | Solution |
 |-------|-------|----------|
-| **"Cannot find symbol: SearchPage"** | Missing import or incorrect package | Ensure `import org.example.SearchPage;` in step def class |
+| **"Cannot find symbol: SearchPage"** | Missing import or incorrect package | Ensure `import com.amazon.qa.pages.SearchPage;` in step def class |
 | **"WebDriver timeout waiting for element"** | Element doesn't exist or takes > 10s to load | Increase wait time: `new WebDriverWait(driver, Duration.ofSeconds(20))` |
 | **"Chrome driver not found"** | Chrome is not installed or path is wrong | Install Chrome from google.com/chrome or set `CHROME_DRIVER_PATH` |
 | **"Failed to execute step"** | Step definition regex doesn't match feature file text | Ensure step text matches exactly, including placeholders `{string}`, `{int}` |

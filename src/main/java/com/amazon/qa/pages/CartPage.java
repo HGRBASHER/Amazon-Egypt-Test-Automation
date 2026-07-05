@@ -1,16 +1,20 @@
-package org.example;
+package com.amazon.qa.pages;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
+import java.util.regex.Matcher;
 import java.time.Duration;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
+
+import static com.amazon.qa.utils.PriceUtils.parsePrice;
+
 
 
 public class CartPage extends BasePage{
@@ -29,6 +33,7 @@ public class CartPage extends BasePage{
     private final By itemTitle = By.xpath(".//a[contains(@class, 'sc-product-title')]//span[contains(@class, 'sc-product-title')] | .//a[contains(@class, 'sc-product-title')]");
     private final By stockLimitLocator = By.xpath("//div[contains(@class, 'a-alert-content')]");
     private final By outOfStockMessage = By.xpath("//h4[contains(text(), 'Important messages about items in your Cart')]");
+    private final By quantityDisplay = By.xpath("//span[@data-a-selector='inner-value']");
     public CartPage(WebDriver driver) {
         super(driver);
     }
@@ -41,20 +46,11 @@ public class CartPage extends BasePage{
         return Integer.parseInt(countStr.trim());
     }
     public List<String> getCartProductTitles() {
+        wait.until(ExpectedConditions.visibilityOfElementLocated(cartItems));
+        List<WebElement> elements = driver.findElements(cartItems);
         List<String> titles = new ArrayList<>();
-        List<WebElement> items = driver.findElements(cartItems);
-        for (WebElement item : items) {
-            try {
-                String itemText = item.getText().toLowerCase();
-                if (itemText.contains("removed") || itemText.contains("was removed")) {
-                    continue;
-                }
-                String title = item.findElement(itemTitle).getAttribute("textContent");
-                assert title != null;
-                titles.add(title.trim().toLowerCase());
-            } catch (Exception e) {
-                log.warn("Element became stale or hidden.");
-            }
+        for (WebElement element : elements) {
+            titles.add(element.getText());
         }
         return titles;
     }
@@ -62,9 +58,7 @@ public class CartPage extends BasePage{
         List<Double> prices = new ArrayList<>();
         List<WebElement> items = driver.findElements(cartItems);
         for (WebElement item : items) {
-            String priceText = item.findElement(itemPrice).getText();
-            String cleanPrice = priceText.replaceAll("[^0-9.]", "");
-            prices.add(Double.parseDouble(cleanPrice));
+            prices.add(parsePrice(item.findElement(itemPrice).getText()));
         }
         return prices;
     }
@@ -118,37 +112,20 @@ public class CartPage extends BasePage{
 
     public boolean isOutOfStockMessageDisplayed() {
         try {
-        wait = new WebDriverWait(driver, Duration.ofSeconds(3));
-        return Objects.requireNonNull(wait.until(ExpectedConditions.visibilityOfElementLocated(outOfStockMessage))).isDisplayed();
-    } catch (Exception e) {
+            wait = new WebDriverWait(driver, Duration.ofSeconds(3));
+            return Objects.requireNonNull(wait.until(ExpectedConditions.visibilityOfElementLocated(outOfStockMessage))).isDisplayed();
+        } catch (Exception e) {
             return false;
         }
 
     }
-    public void removeProductByTitle(String shortTitle) {
-        log.info("Searching for product containing: [{}] to remove it", shortTitle);
-        List<WebElement> items = wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(cartItems));
-
-        int countBefore = getCartProductTitles().size();
-
-        assert items != null;
-        for (WebElement item : items) {
-            String title = Objects.requireNonNull(item.findElement(itemTitle).getAttribute("textContent")).toLowerCase().trim();
-            if (title.contains(shortTitle.toLowerCase())) {
-
-                WebElement deleteBtn = item.findElement(deleteButton);
-
-                ((org.openqa.selenium.JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView({block: 'center'});", deleteBtn);
-                Objects.requireNonNull(wait.until(ExpectedConditions.elementToBeClickable(deleteBtn))).click();
-                log.info("Delete button clicked successfully.");
-
-                wait.until(d -> getCartProductTitles().size() == (countBefore - 1));
-
-                log.info("Cart updated dynamically and item count decreased successfully.");
-                return;
-            }
-        }
-        throw new RuntimeException("No product found in the cart containing the title: " + shortTitle);
+    public void removeProductByTitle(String productTitle) {
+        By deleteButton = By.xpath("//span[contains(text(), '" + productTitle + "')]/ancestor::div[contains(@class, 'sc-list-item-content')]//input[@value='Delete']");
+        WebElement btn = wait.until(ExpectedConditions.elementToBeClickable(deleteButton));
+        btn.click();
+        log.info("Clicked delete button for product: {}", productTitle);
+        wait.until(ExpectedConditions.invisibilityOfElementLocated(deleteButton));
+        log.info("Product removed from DOM successfully.");
     }
     public int getCurrentQuantity() {
         WebElement qtyElement = wait.until(ExpectedConditions.visibilityOfElementLocated(currentQtyTextLocator));
@@ -157,12 +134,9 @@ public class CartPage extends BasePage{
     }
     public int getInventoryLimit() {
         WebElement cartContainer = wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("sc-active-cart")));
-
-        assert cartContainer != null;
         WebElement stockElement = cartContainer.findElement(By.xpath(".//*[contains(text(), 'left in stock')]"));
-
         String stockText = stockElement.getText();
-        java.util.regex.Matcher matcher = java.util.regex.Pattern.compile("\\d+").matcher(stockText);
+        Matcher matcher = java.util.regex.Pattern.compile("\\d+").matcher(stockText);
         if (matcher.find()) {
             return Integer.parseInt(matcher.group());
         }

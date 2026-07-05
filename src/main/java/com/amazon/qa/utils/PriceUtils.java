@@ -1,4 +1,4 @@
-package utils;
+package com.amazon.qa.utils;
 
 public class PriceUtils {
     public static double parsePrice(String priceText) {

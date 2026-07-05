@@ -1,11 +1,11 @@
-package tests.com.amazon.qa.tests.searchResults;
+package com.amazon.qa.tests.searchResults;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import tests.com.amazon.qa.tests.base.BaseTest;
+import com.amazon.qa.tests.base.BaseTest;
 
 import java.util.List;
 

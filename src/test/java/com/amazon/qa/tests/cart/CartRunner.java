@@ -1,10 +1,10 @@
-package tests.com.amazon.qa.tests.cart;
+package com.amazon.qa.tests.cart;
 import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(
-        features = "src/test/java/tests/Cart",
-        glue = {"tests"},
+        features = "src/test/java/com/amazon/qa/tests/cart",
+        glue = {"com.amazon.qa.tests"},
         plugin = {"pretty","html:report/loginRunner-reports.html",
                 "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"}
 )

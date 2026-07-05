@@ -1,4 +1,4 @@
-package tests.com.amazon.qa.tests.drivers;
+package com.amazon.qa.tests.drivers;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

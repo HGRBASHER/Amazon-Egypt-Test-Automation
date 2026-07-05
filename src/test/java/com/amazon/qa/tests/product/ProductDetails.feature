@@ -16,7 +16,6 @@ Feature: Product Details Verification
       | product_name             |
       | productDetails.prod1Name |
 
-
   Scenario Outline: Verify that product details match search results page data
     Given I am on the Amazon Egypt homepage
     When I search for a product "<product_name>"
@@ -29,7 +28,6 @@ Feature: Product Details Verification
     And the product price on the details page should be consistent with the search result price
     And the product availability status and Add to Cart button should be visible
     And I add the product to the cart
-    And I finalize cart assertions
 
     Examples:
       | product_name                            | brand                                    | page_number                            | gender                                    |

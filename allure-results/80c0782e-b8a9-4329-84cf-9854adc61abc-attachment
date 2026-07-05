@@ -1,0 +1,1075 @@
+2026-07-04 21:54:51 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 21:54:51 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 21:54:53 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 21:54:53 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 21:54:53 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 21:55:08 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 21:55:08 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 21:55:08 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 21:55:09 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 21:55:09 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 21:55:09 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 21:55:14 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 21:55:15 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 21:55:15 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 21:55:16 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 21:55:16 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 21:55:16 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 21:55:25 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 21:55:25 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 21:55:25 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 21:55:27 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 21:55:27 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 21:55:27 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 21:55:44 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 21:55:44 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 21:55:44 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 21:55:46 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 21:55:46 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 21:55:46 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 21:56:07 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 21:56:07 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 21:56:07 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 21:56:09 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 21:56:09 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 21:56:09 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 21:56:16 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 21:56:16 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 21:56:16 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 21:56:16 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 21:56:18 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 21:56:18 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 21:56:18 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 21:56:36 ERROR HooksHandler:48 - Test Failed: Verify adding multiple items to cart and subtotal calculation - Screenshot attached.
+2026-07-04 21:56:36 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 21:56:36 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 21:56:36 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 21:56:38 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 21:56:38 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 21:56:38 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 21:56:57 ERROR HooksHandler:48 - Test Failed: Verify updating cart quantity and subtotal calculation - Screenshot attached.
+2026-07-04 21:56:57 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 21:56:57 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 21:56:57 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 21:56:59 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 21:56:59 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 21:56:59 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 21:57:17 ERROR HooksHandler:48 - Test Failed: Verify inventory limit in cart - Screenshot attached.
+2026-07-04 21:57:18 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 22:05:32 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 22:05:32 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 22:05:33 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 22:05:33 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 22:05:33 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 22:05:42 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 22:05:42 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 22:05:42 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 22:05:42 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 22:05:44 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 22:05:44 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 22:05:44 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 22:06:03 ERROR HooksHandler:48 - Test Failed: Verify adding multiple items to cart and subtotal calculation - Screenshot attached.
+2026-07-04 22:06:03 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 22:06:03 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 22:06:03 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 22:06:05 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 22:06:05 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 22:06:05 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 22:06:26 ERROR HooksHandler:48 - Test Failed: Verify updating cart quantity and subtotal calculation - Screenshot attached.
+2026-07-04 22:06:26 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 22:06:26 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 22:06:26 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 22:06:28 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 22:06:28 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 22:06:28 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 22:06:49 ERROR HooksHandler:48 - Test Failed: Verify inventory limit in cart - Screenshot attached.
+2026-07-04 22:06:49 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 22:13:15 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 22:13:15 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 22:13:18 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 22:13:18 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 22:13:18 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 22:13:23 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 22:13:23 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 22:13:24 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 22:13:24 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 22:13:26 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 22:13:26 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 22:13:26 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 22:13:28 ERROR HooksHandler:51 - Failed to take screenshot: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=150.0.7871.46)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c9220f21ef87b244546fd393fff9692d, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir10620_282...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59204}, goog:processID: 19996, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59204/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c9220f21ef87b244546fd393fff9692d
+2026-07-04 22:13:29 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 22:13:29 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 22:13:29 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 22:13:30 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 22:13:30 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 22:13:30 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 22:22:41 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 22:22:41 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 22:22:43 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 22:22:43 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 22:22:43 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 22:22:52 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 22:22:52 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 22:27:03 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 22:27:03 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 22:27:06 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 22:27:06 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 22:27:06 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 22:27:13 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 22:27:13 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 22:27:55 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 22:27:55 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 22:27:57 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 22:27:57 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 22:27:57 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 22:28:06 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 22:28:06 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 22:28:22 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 22:28:22 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 22:28:23 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 22:28:23 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 22:28:23 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 22:28:33 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 22:28:33 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 22:29:02 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 22:29:02 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 22:29:04 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 22:29:04 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 22:29:04 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 22:29:10 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 22:29:11 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 22:34:28 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 22:34:28 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 22:34:31 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 22:34:31 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 22:34:31 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 22:34:36 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 22:34:36 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 22:37:33 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 22:37:33 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 22:37:35 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 22:37:35 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 22:37:35 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 22:37:47 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 22:37:48 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 22:40:26 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 22:40:26 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 22:40:28 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 22:40:28 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 22:40:28 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 22:40:42 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 22:40:42 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 22:43:13 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 22:43:13 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 22:43:17 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 22:43:17 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 22:43:17 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 22:43:37 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 22:43:38 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 22:46:25 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 22:46:25 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 22:46:28 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 22:46:28 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 22:46:28 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 22:46:47 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 22:46:47 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 22:50:08 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 22:50:08 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 22:50:10 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 22:50:10 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 22:50:10 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 22:50:29 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 22:50:29 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 22:53:59 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 22:53:59 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 22:54:03 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 22:54:03 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 22:54:03 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 22:54:17 INFO  ProductDetailsPage:42 - Product added to cart successfully.
+2026-07-04 22:54:18 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 22:54:18 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 22:54:51 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 22:54:51 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 22:54:52 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 22:54:52 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 22:54:52 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 22:55:17 INFO  ProductDetailsPage:42 - Product added to cart successfully.
+2026-07-04 22:55:29 INFO  ProductDetailsPage:42 - Product added to cart successfully.
+2026-07-04 22:55:31 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 22:56:39 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 22:56:39 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 22:56:41 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 22:56:41 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 22:56:41 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 22:56:55 INFO  ProductDetailsPage:42 - Product added to cart successfully.
+2026-07-04 22:56:55 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 22:56:56 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:04:51 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:04:51 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:04:53 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:04:53 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:04:53 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:05:11 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:05:11 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:05:11 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 23:05:12 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:07:23 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:07:23 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:07:26 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:07:26 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:07:26 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:07:38 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:07:38 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:07:38 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 23:07:39 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:10:52 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:10:52 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:10:54 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:10:54 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:10:54 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:11:09 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:11:09 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:11:09 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 23:11:09 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:11:47 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:11:47 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:11:50 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:11:50 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:11:50 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:12:02 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:12:02 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:12:02 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 23:12:03 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:13:55 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:13:55 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:13:57 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:13:57 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:13:57 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:14:12 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:14:12 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:14:14 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 23:14:14 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:14:43 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:14:43 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:14:44 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:14:44 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:14:44 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:14:59 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:14:59 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:15:00 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 23:15:00 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:16:25 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:16:25 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:16:27 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:16:27 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:16:27 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:16:39 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:16:39 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:16:48 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:16:48 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:16:50 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 23:16:51 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:17:04 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:17:04 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:17:07 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:17:07 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:17:07 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:17:11 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 23:17:12 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:17:23 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:17:23 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:17:25 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:17:25 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:17:25 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:17:36 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:17:36 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:17:43 WARN  ProductDetailsPage:50 - Add to Cart button NOT found or not clickable.
+2026-07-04 23:17:48 ERROR HooksHandler:51 - Failed to take screenshot: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=150.0.7871.46)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [58547f7e4c6e5d5678bcfaed4bfc27b7, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir21572_160...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50652}, goog:processID: 17976, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50652/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 58547f7e4c6e5d5678bcfaed4bfc27b7
+2026-07-04 23:17:48 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:18:07 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:18:07 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:18:09 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:18:09 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:18:09 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:18:20 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:18:20 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:18:29 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:18:29 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:18:32 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 23:18:32 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:22:47 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:22:47 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:22:49 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:22:49 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:22:49 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:23:01 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:23:01 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:23:09 WARN  ProductDetailsPage:50 - Add to Cart button NOT found or not clickable.
+2026-07-04 23:23:18 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:23:18 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:23:21 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:23:21 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:23:21 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:23:34 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:23:34 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:23:35 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 23:23:35 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:24:05 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:24:05 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:24:07 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:24:07 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:24:07 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:24:20 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:24:29 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:24:29 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:24:31 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 23:24:32 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:25:03 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:25:03 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:25:05 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:25:05 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:25:05 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:25:17 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:25:26 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:25:26 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:25:28 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 23:25:29 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:25:43 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:25:43 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:25:46 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:25:46 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:25:46 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:25:59 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:25:59 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:26:08 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:26:08 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:26:10 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 23:26:10 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:27:49 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:27:49 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:27:51 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:27:51 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:27:51 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:28:04 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:28:04 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:28:13 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:28:13 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:28:15 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 23:28:15 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:31:22 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:31:22 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:31:24 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:31:24 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:31:24 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:31:37 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:31:37 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:31:47 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:31:47 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:31:49 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 23:31:50 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:32:02 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:32:02 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:32:05 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:32:05 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:32:05 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:32:17 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:32:17 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:32:26 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:32:26 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:32:28 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-04 23:32:29 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:50:25 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:50:25 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:50:28 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:50:28 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:50:28 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:50:41 ERROR HooksHandler:48 - Test Failed: Verify search, filtering, sorting, and cart functionality - Screenshot attached.
+2026-07-04 23:50:41 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:50:41 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:50:41 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:50:43 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:50:43 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:50:43 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:50:44 ERROR HooksHandler:51 - Failed to take screenshot: invalid session id
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [94cdbe2538bd823b32ac5d350cdfa2d3, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir19832_137...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57621}, goog:processID: 16892, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57621/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 94cdbe2538bd823b32ac5d350cdfa2d3
+2026-07-04 23:50:44 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:50:45 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:50:45 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:51:12 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:51:12 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:51:14 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:51:14 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:51:14 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:51:25 ERROR HooksHandler:48 - Test Failed: Verify search, filtering, sorting, and cart functionality - Screenshot attached.
+2026-07-04 23:51:25 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:51:25 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:51:25 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:51:28 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:51:28 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:51:28 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:51:32 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:52:58 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:52:58 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:52:59 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:52:59 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:52:59 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:53:11 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:53:11 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:53:11 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:53:12 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:53:12 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:53:12 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:53:19 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:53:30 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:53:30 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:53:32 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:53:32 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:53:32 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:53:43 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:53:53 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:53:53 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:53:55 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:53:55 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:53:55 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:54:12 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:54:12 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:54:12 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:54:13 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:54:13 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:54:13 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:54:40 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:54:40 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:55:14 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:55:14 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:55:16 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:55:16 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:55:16 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:55:29 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:55:29 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:55:38 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:55:38 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:55:39 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:56:22 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:56:22 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:56:25 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:56:25 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:56:25 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:56:37 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:56:37 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:56:46 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:56:46 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:56:47 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:56:47 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:56:47 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:56:49 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:56:49 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:56:49 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:57:12 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:57:12 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:57:32 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:57:32 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:57:43 ERROR HooksHandler:48 - Test Failed: Verify adding multiple items to cart and subtotal calculation - Screenshot attached.
+2026-07-04 23:57:43 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:57:43 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:57:43 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:57:45 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:57:45 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:57:45 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:57:57 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:57:57 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:58:09 ERROR HooksHandler:48 - Test Failed: Verify updating cart quantity and subtotal calculation - Screenshot attached.
+2026-07-04 23:58:09 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-04 23:58:09 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-04 23:58:09 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-04 23:58:11 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-04 23:58:11 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-04 23:58:11 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-04 23:58:24 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-04 23:58:24 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-04 23:58:35 ERROR HooksHandler:48 - Test Failed: Verify inventory limit in cart - Screenshot attached.
+2026-07-04 23:58:35 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:03:43 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:03:43 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:03:47 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:03:47 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:03:47 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:04:04 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:04:04 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:04:04 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:04:07 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:04:07 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:04:07 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:04:34 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-05 00:04:35 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:14:04 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:14:04 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:14:05 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:14:05 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:14:05 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:14:20 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-05 00:14:20 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-05 00:14:31 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-05 00:14:31 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-05 00:14:32 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:14:32 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:14:32 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:14:34 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:14:34 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:14:34 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:16:05 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:16:05 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:16:08 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:16:08 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:16:08 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:16:20 INFO  ProductDetailsPage:41 - Clicked 'No thanks' using JavaScript.
+2026-07-05 00:16:20 INFO  ProductDetailsPage:47 - Product added to cart successfully.
+2026-07-05 00:16:21 ERROR HooksHandler:51 - Failed to take screenshot: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=150.0.7871.46)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cc56146f82771ace771e3be96ba779b3, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir15220_208...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54234}, goog:processID: 22080, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54234/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cc56146f82771ace771e3be96ba779b3
+2026-07-05 00:16:21 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:16:21 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:16:21 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:16:21 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:16:21 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:16:24 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:16:24 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:16:24 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:16:49 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:16:49 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:16:51 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:16:51 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:16:51 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:16:56 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-05 00:16:56 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:16:56 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:16:56 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:16:59 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:16:59 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:16:59 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:17:00 ERROR HooksHandler:51 - Failed to take screenshot: invalid session id
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3002d001aab21dbb1e7e30e715d16939, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir8740_1458...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51345}, goog:processID: 8640, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51345/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3002d001aab21dbb1e7e30e715d16939
+2026-07-05 00:17:00 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:17:00 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:17:00 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:18:12 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:18:12 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:18:14 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:18:14 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:18:14 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:18:29 INFO  ProductDetailsPage:107 - Product added to cart successfully.
+2026-07-05 00:18:33 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-05 00:18:33 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:18:33 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:18:33 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:18:36 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:18:36 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:18:36 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:18:37 ERROR HooksHandler:51 - Failed to take screenshot: invalid session id
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [db644aa84f7a6100d17f59ae283baa4d, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir17372_420...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56618}, goog:processID: 7088, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56618/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: db644aa84f7a6100d17f59ae283baa4d
+2026-07-05 00:18:37 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:18:37 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:18:37 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:18:45 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:18:45 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:18:48 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:18:48 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:18:48 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:18:48 ERROR HooksHandler:51 - Failed to take screenshot: invalid session id
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2aab98987073d09e9ed00a4b43e799d9, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir17024_649...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59754}, goog:processID: 12524, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59754/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2aab98987073d09e9ed00a4b43e799d9
+2026-07-05 00:18:48 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:18:49 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:18:49 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:19:02 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:19:02 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:19:04 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:19:04 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:19:04 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:19:18 INFO  ProductDetailsPage:107 - Product added to cart successfully.
+2026-07-05 00:19:18 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-05 00:19:18 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:19:18 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:19:18 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:19:21 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:19:21 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:19:21 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:20:35 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:20:35 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:20:37 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:20:37 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:20:37 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:20:51 INFO  ProductDetailsPage:107 - Product added to cart successfully.
+2026-07-05 00:20:51 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-05 00:20:52 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:28:03 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:28:03 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:28:05 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:28:05 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:28:05 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:28:15 INFO  ProductDetailsPage:107 - Product added to cart successfully.
+2026-07-05 00:28:15 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-05 00:28:16 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:33:23 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:33:23 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:33:26 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:33:26 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:33:26 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:33:35 INFO  ProductDetailsPage:107 - Product added to cart successfully.
+2026-07-05 00:33:36 ERROR HooksHandler:48 - Test Failed: Add two items and remove one to verify cart functionality - Screenshot attached.
+2026-07-05 00:33:36 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:38:08 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:38:08 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:38:10 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:38:10 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:38:10 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:38:20 INFO  ProductDetailsPage:107 - Product added to cart successfully.
+2026-07-05 00:38:29 INFO  ProductDetailsPage:107 - Product added to cart successfully.
+2026-07-05 00:38:29 INFO  CartPage:129 - Searching for product containing: [Wireless Gaming Mouse] to remove it
+2026-07-05 00:38:31 ERROR HooksHandler:51 - Failed to take screenshot: invalid session id
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [20b7f250ae37e1c0cce7d024e95118c8, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir13648_842...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53938}, goog:processID: 16224, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53938/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 20b7f250ae37e1c0cce7d024e95118c8
+2026-07-05 00:38:31 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:44:34 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:44:34 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:44:36 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:44:36 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:44:36 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:44:43 INFO  ProductDetailsPage:97 - Clicked Add to Cart button.
+2026-07-05 00:44:59 ERROR ProductDetailsPage:114 - Failed to add product to cart: Expected condition failed: waiting for visibility of element located by By.id: attach-added-to-cart-message (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir13228_104...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64874}, goog:processID: 13524, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64874/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: acfde77b4003678585e9da1a32338902
+2026-07-05 00:45:04 INFO  ProductDetailsPage:97 - Clicked Add to Cart button.
+2026-07-05 00:45:19 ERROR ProductDetailsPage:114 - Failed to add product to cart: Expected condition failed: waiting for visibility of element located by By.id: attach-added-to-cart-message (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir13228_104...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64874}, goog:processID: 13524, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64874/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: acfde77b4003678585e9da1a32338902
+2026-07-05 00:45:23 INFO  CartPage:129 - Searching for product containing: [Wireless Gaming Mouse] to remove it
+2026-07-05 00:45:23 INFO  CartPage:143 - Delete button clicked successfully.
+2026-07-05 00:45:23 INFO  CartPage:147 - Cart updated dynamically and item count decreased successfully.
+2026-07-05 00:45:24 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:46:42 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:46:42 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:46:44 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:46:44 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:46:44 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:47:04 ERROR SearchResultsPage:311 - Error adding product to cart: Expected condition failed: waiting for element ([[[[ChromeDriver: chrome on windows (55671deca8dcb18c2e886db053501730)] -> xpath: //div[@data-component-type='s-search-result']]] -> xpath: .//button[contains(@id, 'a-autoid') or contains(@class, 'a-button-text')]]) to become stale (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir12752_115...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65228}, goog:processID: 9264, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65228/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 55671deca8dcb18c2e886db053501730
+2026-07-05 00:47:15 ERROR SearchResultsPage:311 - Error adding product to cart: Expected condition failed: waiting for element ([[[[ChromeDriver: chrome on windows (55671deca8dcb18c2e886db053501730)] -> xpath: //div[@data-component-type='s-search-result']]] -> xpath: .//button[contains(@id, 'a-autoid') or contains(@class, 'a-button-text')]]) to become stale (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir12752_115...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65228}, goog:processID: 9264, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65228/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 55671deca8dcb18c2e886db053501730
+2026-07-05 00:47:17 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:47:17 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:47:17 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:47:18 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:47:18 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:47:18 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:47:22 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:47:22 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:47:22 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:47:23 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:47:23 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:47:23 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:47:29 INFO  SearchResultsPage:102 - Setting price slider [MIN] value to: [30] via JavaScript
+2026-07-05 00:47:29 DEBUG SearchResultsPage:124 - Current Slider [MIN] text bound is: 370 EGP
+2026-07-05 00:47:29 INFO  SearchResultsPage:102 - Setting price slider [MAX] value to: [130] via JavaScript
+2026-07-05 00:47:29 DEBUG SearchResultsPage:124 - Current Slider [MAX] text bound is: 2,950 EGP & above
+2026-07-05 00:47:29 DEBUG SearchResultsPage:124 - Current Slider [MIN] text bound is: 670 EGP
+2026-07-05 00:47:29 DEBUG SearchResultsPage:124 - Current Slider [MAX] text bound is: 2,950 EGP & above
+2026-07-05 00:47:34 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:47:34 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:47:34 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:47:36 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:47:36 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:47:36 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:47:48 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:47:48 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:47:48 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:47:49 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:47:49 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:47:49 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:48:00 INFO  ProductDetailsStepDef:90 - Applied gender filter: Men
+2026-07-05 00:48:00 INFO  ProductDetailsStepDef:85 - Navigated to page number: 2
+2026-07-05 00:48:03 INFO  ProductDetailsStepDef:73 - Valid product identified and details page opened.
+2026-07-05 00:48:11 INFO  ProductDetailsPage:97 - Clicked Add to Cart button.
+2026-07-05 00:48:26 ERROR ProductDetailsPage:114 - Failed to add product to cart: Expected condition failed: waiting for visibility of element located by By.id: attach-added-to-cart-message (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir13308_184...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58429}, goog:processID: 19796, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58429/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f7b2a675899064c89ae26c11a068c19a
+2026-07-05 00:48:26 INFO  ProductDetailsStepDef:78 - Product added to cart successfully
+2026-07-05 00:48:26 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:49:04 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:49:04 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:49:07 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:49:07 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:49:07 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:49:28 ERROR SearchResultsPage:311 - Error adding product to cart: Expected condition failed: waiting for element ([[[[ChromeDriver: chrome on windows (a442a7d2d83a10464cef20cfb7665ac2)] -> xpath: //div[@data-component-type='s-search-result']]] -> xpath: .//button[contains(@id, 'a-autoid') or contains(@class, 'a-button-text')]]) to become stale (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir20528_603...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57583}, goog:processID: 17992, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57583/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a442a7d2d83a10464cef20cfb7665ac2
+2026-07-05 00:49:39 ERROR SearchResultsPage:311 - Error adding product to cart: Expected condition failed: waiting for element ([[[[ChromeDriver: chrome on windows (a442a7d2d83a10464cef20cfb7665ac2)] -> xpath: //div[@data-component-type='s-search-result']]] -> xpath: .//button[contains(@id, 'a-autoid') or contains(@class, 'a-button-text')]]) to become stale (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir20528_603...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57583}, goog:processID: 17992, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57583/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a442a7d2d83a10464cef20cfb7665ac2
+2026-07-05 00:49:40 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:49:40 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:49:40 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:49:42 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:49:42 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:49:42 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:49:46 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:49:46 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:49:46 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:49:47 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:49:47 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:49:47 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:49:53 INFO  SearchResultsPage:102 - Setting price slider [MIN] value to: [30] via JavaScript
+2026-07-05 00:49:53 DEBUG SearchResultsPage:124 - Current Slider [MIN] text bound is: 370 EGP
+2026-07-05 00:49:53 INFO  SearchResultsPage:102 - Setting price slider [MAX] value to: [130] via JavaScript
+2026-07-05 00:49:53 DEBUG SearchResultsPage:124 - Current Slider [MAX] text bound is: 2,950 EGP & above
+2026-07-05 00:49:53 DEBUG SearchResultsPage:124 - Current Slider [MIN] text bound is: 670 EGP
+2026-07-05 00:49:53 DEBUG SearchResultsPage:124 - Current Slider [MAX] text bound is: 2,950 EGP & above
+2026-07-05 00:49:59 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:49:59 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:49:59 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:50:00 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:50:00 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:50:00 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:50:13 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:50:13 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:50:13 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:50:15 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:50:15 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:50:15 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:50:24 INFO  ProductDetailsStepDef:90 - Applied gender filter: Men
+2026-07-05 00:50:24 INFO  ProductDetailsStepDef:85 - Navigated to page number: 2
+2026-07-05 00:50:26 INFO  ProductDetailsStepDef:73 - Valid product identified and details page opened.
+2026-07-05 00:50:34 INFO  ProductDetailsPage:97 - Clicked Add to Cart button.
+2026-07-05 00:50:50 ERROR ProductDetailsPage:114 - Failed to add product to cart: Expected condition failed: waiting for visibility of element located by By.id: attach-added-to-cart-message (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir8088_1990...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60545}, goog:processID: 19364, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60545/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fd198aa486764590d3abb85098e23bcc
+2026-07-05 00:50:50 INFO  ProductDetailsStepDef:78 - Product added to cart successfully
+2026-07-05 00:50:50 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:51:41 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:51:41 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:51:47 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:51:47 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:51:47 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:52:07 ERROR SearchResultsPage:311 - Error adding product to cart: Expected condition failed: waiting for element ([[[[ChromeDriver: chrome on windows (2004b59950b59c65f103d9f82e242bb6)] -> xpath: //div[@data-component-type='s-search-result']]] -> xpath: .//button[contains(@id, 'a-autoid') or contains(@class, 'a-button-text')]]) to become stale (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir11152_180...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64633}, goog:processID: 16920, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64633/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2004b59950b59c65f103d9f82e242bb6
+2026-07-05 00:52:17 ERROR SearchResultsPage:311 - Error adding product to cart: Expected condition failed: waiting for element ([[[[ChromeDriver: chrome on windows (2004b59950b59c65f103d9f82e242bb6)] -> xpath: //div[@data-component-type='s-search-result']]] -> xpath: .//button[contains(@id, 'a-autoid') or contains(@class, 'a-button-text')]]) to become stale (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir11152_180...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64633}, goog:processID: 16920, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64633/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2004b59950b59c65f103d9f82e242bb6
+2026-07-05 00:52:19 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:52:19 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:52:19 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:52:20 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:52:20 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:52:20 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:52:25 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:52:26 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:52:26 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:52:27 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:52:27 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:52:27 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:52:34 INFO  SearchResultsPage:102 - Setting price slider [MIN] value to: [30] via JavaScript
+2026-07-05 00:52:34 DEBUG SearchResultsPage:124 - Current Slider [MIN] text bound is: 370 EGP
+2026-07-05 00:52:34 INFO  SearchResultsPage:102 - Setting price slider [MAX] value to: [130] via JavaScript
+2026-07-05 00:52:34 DEBUG SearchResultsPage:124 - Current Slider [MAX] text bound is: 2,950 EGP & above
+2026-07-05 00:52:34 DEBUG SearchResultsPage:124 - Current Slider [MIN] text bound is: 670 EGP
+2026-07-05 00:52:35 DEBUG SearchResultsPage:124 - Current Slider [MAX] text bound is: 2,950 EGP & above
+2026-07-05 00:52:43 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:52:43 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:52:43 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:52:46 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:52:46 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:52:46 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:52:59 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:52:59 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:52:59 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:53:02 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:53:02 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:53:02 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:53:10 INFO  ProductDetailsStepDef:90 - Applied gender filter: Men
+2026-07-05 00:53:10 INFO  ProductDetailsStepDef:85 - Navigated to page number: 2
+2026-07-05 00:53:13 INFO  ProductDetailsStepDef:73 - Valid product identified and details page opened.
+2026-07-05 00:53:21 INFO  ProductDetailsPage:97 - Clicked Add to Cart button.
+2026-07-05 00:53:36 ERROR ProductDetailsPage:114 - Failed to add product to cart: Expected condition failed: waiting for visibility of element located by By.id: attach-added-to-cart-message (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir20440_114...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52372}, goog:processID: 8472, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52372/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b60acdbc18e913556b1b96059d736e08
+2026-07-05 00:53:36 INFO  ProductDetailsStepDef:78 - Product added to cart successfully
+2026-07-05 00:53:37 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:53:37 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:53:37 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:53:38 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:53:38 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:53:38 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:53:46 INFO  ProductDetailsPage:97 - Clicked Add to Cart button.
+2026-07-05 00:54:01 ERROR ProductDetailsPage:114 - Failed to add product to cart: Expected condition failed: waiting for visibility of element located by By.id: attach-added-to-cart-message (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir12752_185...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65227}, goog:processID: 9092, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65227/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cdcfdf80714c1a2d8b598fc00c7edd92
+2026-07-05 00:54:07 INFO  ProductDetailsPage:97 - Clicked Add to Cart button.
+2026-07-05 00:54:23 ERROR ProductDetailsPage:114 - Failed to add product to cart: Expected condition failed: waiting for visibility of element located by By.id: attach-added-to-cart-message (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir12752_185...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65227}, goog:processID: 9092, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65227/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cdcfdf80714c1a2d8b598fc00c7edd92
+2026-07-05 00:54:24 INFO  CartPage:129 - Searching for product containing: [Wireless Gaming Mouse] to remove it
+2026-07-05 00:54:25 INFO  CartPage:143 - Delete button clicked successfully.
+2026-07-05 00:54:25 INFO  CartPage:147 - Cart updated dynamically and item count decreased successfully.
+2026-07-05 00:54:25 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:54:25 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:54:25 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:54:26 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:54:26 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:54:26 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:54:43 INFO  ProductDetailsPage:97 - Clicked Add to Cart button.
+2026-07-05 00:54:59 ERROR ProductDetailsPage:114 - Failed to add product to cart: Expected condition failed: waiting for visibility of element located by By.id: attach-added-to-cart-message (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir3064_6058...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49238}, goog:processID: 14244, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49238/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: eedf2c819776de12aeac20bcf4c41668
+2026-07-05 00:55:10 INFO  ProductDetailsPage:97 - Clicked Add to Cart button.
+2026-07-05 00:55:25 ERROR ProductDetailsPage:114 - Failed to add product to cart: Expected condition failed: waiting for visibility of element located by By.id: attach-added-to-cart-message (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir3064_6058...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49238}, goog:processID: 14244, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49238/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: eedf2c819776de12aeac20bcf4c41668
+2026-07-05 00:55:27 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:55:27 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:55:27 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:55:31 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:55:31 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:55:31 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:55:37 INFO  ProductDetailsPage:97 - Clicked Add to Cart button.
+2026-07-05 00:55:53 ERROR ProductDetailsPage:114 - Failed to add product to cart: Expected condition failed: waiting for visibility of element located by By.id: attach-added-to-cart-message (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir13692_102...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57480}, goog:processID: 9400, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57480/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 360399eef0e92c52ea089d1e8d9e89f5
+2026-07-05 00:56:12 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:56:12 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:56:12 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:56:14 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:56:14 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:56:14 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:56:23 INFO  ProductDetailsPage:97 - Clicked Add to Cart button.
+2026-07-05 00:56:38 ERROR ProductDetailsPage:114 - Failed to add product to cart: Expected condition failed: waiting for visibility of element located by By.id: attach-added-to-cart-message (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir22128_144...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58954}, goog:processID: 21560, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58954/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2cb173607291284af1020eba40b4b698
+2026-07-05 00:56:39 ERROR HooksHandler:48 - Test Failed: Verify inventory limit in cart - Screenshot attached.
+2026-07-05 00:56:40 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 00:58:27 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 00:58:27 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 00:58:29 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 00:58:29 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 00:58:29 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 00:58:37 INFO  ProductDetailsPage:97 - Clicked Add to Cart button.
+2026-07-05 00:58:53 ERROR ProductDetailsPage:114 - Failed to add product to cart: Expected condition failed: waiting for visibility of element located by By.id: attach-added-to-cart-message (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir13920_802...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55459}, goog:processID: 6488, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55459/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1907b18cf2dbd11e9e8df43cdfbee370
+2026-07-05 00:58:55 ERROR HooksHandler:48 - Test Failed: Verify inventory limit in cart - Screenshot attached.
+2026-07-05 00:58:55 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 01:03:10 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 01:03:10 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 01:03:12 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 01:03:12 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 01:03:12 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 01:03:13 ERROR HooksHandler:51 - Failed to take screenshot: invalid session id
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f3ef9f3195a9bc67b38f06c019b1faa4, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir8364_1339...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54406}, goog:processID: 14552, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54406/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f3ef9f3195a9bc67b38f06c019b1faa4
+2026-07-05 01:03:13 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 01:03:23 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 01:03:23 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 01:03:25 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 01:03:25 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 01:03:25 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 01:03:45 ERROR SearchResultsPage:311 - Error adding product to cart: Expected condition failed: waiting for element ([[[[ChromeDriver: chrome on windows (5b83c5674769682c7fba51bfc71a78a3)] -> xpath: //div[@data-component-type='s-search-result']]] -> xpath: .//button[contains(@id, 'a-autoid') or contains(@class, 'a-button-text')]]) to become stale (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir16524_171...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62192}, goog:processID: 22220, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62192/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5b83c5674769682c7fba51bfc71a78a3
+2026-07-05 01:03:56 ERROR SearchResultsPage:311 - Error adding product to cart: Expected condition failed: waiting for element ([[[[ChromeDriver: chrome on windows (5b83c5674769682c7fba51bfc71a78a3)] -> xpath: //div[@data-component-type='s-search-result']]] -> xpath: .//button[contains(@id, 'a-autoid') or contains(@class, 'a-button-text')]]) to become stale (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir16524_171...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62192}, goog:processID: 22220, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62192/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5b83c5674769682c7fba51bfc71a78a3
+2026-07-05 01:03:57 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 01:03:57 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 01:03:57 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 01:03:59 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 01:03:59 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 01:03:59 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 01:04:03 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 01:04:03 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 01:04:03 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 01:04:05 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 01:04:05 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 01:04:05 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 01:04:11 INFO  SearchResultsPage:102 - Setting price slider [MIN] value to: [30] via JavaScript
+2026-07-05 01:04:11 DEBUG SearchResultsPage:124 - Current Slider [MIN] text bound is: 370 EGP
+2026-07-05 01:04:11 INFO  SearchResultsPage:102 - Setting price slider [MAX] value to: [130] via JavaScript
+2026-07-05 01:04:11 DEBUG SearchResultsPage:124 - Current Slider [MAX] text bound is: 2,950 EGP & above
+2026-07-05 01:04:11 DEBUG SearchResultsPage:124 - Current Slider [MIN] text bound is: 670 EGP
+2026-07-05 01:04:11 DEBUG SearchResultsPage:124 - Current Slider [MAX] text bound is: 2,950 EGP & above
+2026-07-05 01:04:16 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 01:04:16 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 01:04:16 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 01:04:19 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 01:04:19 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 01:04:19 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 01:04:32 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 01:04:32 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 01:04:32 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 01:04:34 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 01:04:34 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 01:04:34 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 01:04:41 INFO  ProductDetailsStepDef:90 - Applied gender filter: Men
+2026-07-05 01:04:41 INFO  ProductDetailsStepDef:85 - Navigated to page number: 2
+2026-07-05 01:04:44 INFO  ProductDetailsStepDef:73 - Valid product identified and details page opened.
+2026-07-05 01:04:51 INFO  ProductDetailsPage:97 - Clicked Add to Cart button.
+2026-07-05 01:05:06 ERROR ProductDetailsPage:114 - Failed to add product to cart: Expected condition failed: waiting for visibility of element located by By.id: attach-added-to-cart-message (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir16900_113...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56560}, goog:processID: 21464, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56560/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 73c6d151457917874a9a2149b82df4ba
+2026-07-05 01:05:06 INFO  ProductDetailsStepDef:78 - Product added to cart successfully
+2026-07-05 01:05:07 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 01:05:07 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 01:05:07 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 01:05:09 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 01:05:09 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 01:05:09 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 01:05:15 INFO  ProductDetailsPage:97 - Clicked Add to Cart button.
+2026-07-05 01:05:31 ERROR ProductDetailsPage:114 - Failed to add product to cart: Expected condition failed: waiting for visibility of element located by By.id: attach-added-to-cart-message (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir17400_126...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50359}, goog:processID: 15284, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50359/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f68cbbc9ab1afa326f5d62190ff3bc7e
+2026-07-05 01:05:35 INFO  ProductDetailsPage:97 - Clicked Add to Cart button.
+2026-07-05 01:05:51 ERROR ProductDetailsPage:114 - Failed to add product to cart: Expected condition failed: waiting for visibility of element located by By.id: attach-added-to-cart-message (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir17400_126...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50359}, goog:processID: 15284, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50359/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f68cbbc9ab1afa326f5d62190ff3bc7e
+2026-07-05 01:05:54 INFO  CartPage:129 - Searching for product containing: [Wireless Gaming Mouse] to remove it
+2026-07-05 01:05:54 INFO  CartPage:143 - Delete button clicked successfully.
+2026-07-05 01:05:54 INFO  CartPage:147 - Cart updated dynamically and item count decreased successfully.
+2026-07-05 01:05:54 INFO  HooksHandler:59 - Driver closed successfully
+2026-07-05 01:05:55 DEBUG HooksHandler:30 - json File Manager initialized
+2026-07-05 01:05:55 DEBUG HooksHandler:32 - configHandler initialized
+2026-07-05 01:05:56 DEBUG HooksHandler:36 - DriverSingleton initialized
+2026-07-05 01:05:56 DEBUG HooksHandler:38 - Explicit wait initialized
+2026-07-05 01:05:56 DEBUG HooksHandler:40 - SoftAssert initialized
+2026-07-05 01:06:09 INFO  ProductDetailsPage:97 - Clicked Add to Cart button.
+2026-07-05 01:06:25 ERROR ProductDetailsPage:114 - Failed to add product to cart: Expected condition failed: waiting for visibility of element located by By.id: attach-added-to-cart-message (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir13528_190...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62892}, goog:processID: 4764, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62892/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fa7d234e0f0b77dd96a024f19d629fc9
+2026-07-05 01:06:35 INFO  ProductDetailsPage:97 - Clicked Add to Cart button.
+2026-07-05 01:06:51 ERROR ProductDetailsPage:114 - Failed to add product to cart: Expected condition failed: waiting for visibility of element located by By.id: attach-added-to-cart-message (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 150.0.7871.46, chrome: {chromedriverVersion: 150.0.7871.46 (5b586c06e0d2..., userDataDir: D:\Temp\scoped_dir13528_190...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62892}, goog:processID: 4764, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62892/devtoo..., se:cdpVersion: 150.0.7871.46, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fa7d234e0f0b77dd96a024f19d629fc9
+2026-07-05 01:06:53 INFO  HooksHandler:59 - Driver closed successfully

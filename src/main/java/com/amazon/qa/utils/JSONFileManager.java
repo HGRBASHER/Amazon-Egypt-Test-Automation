@@ -1,4 +1,4 @@
-package utils;
+package com.amazon.qa.utils;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
@@ -32,7 +32,7 @@ public class JSONFileManager {
         }
         return current;
     }
-    public ArrayList<String> getListValue(String key){
-        return  (ArrayList<String>) jsonData.get(key);
-    }
-}
+    public ArrayList<String> getListValue(String key) {
+        Object value = jsonData.get(key);
+        return (value instanceof ArrayList) ? (ArrayList<String>) value : new ArrayList<>();
+    }}

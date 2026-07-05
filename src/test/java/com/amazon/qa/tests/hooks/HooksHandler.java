@@ -1,4 +1,4 @@
-package tests.com.amazon.qa.tests.hooks;
+package com.amazon.qa.tests.hooks;
 
 
 import io.cucumber.java.Scenario;
@@ -11,11 +11,11 @@ import org.apache.logging.log4j.Logger;
 import com.amazon.qa.pages.SearchPage;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.asserts.SoftAssert;
-import tests.com.amazon.qa.tests.base.BaseTest;
-import tests.com.amazon.qa.tests.drivers.WebDriverFactory;
-import utils.ConfigHandler;
-import utils.JSONFileManager;
-import utils.ScreenShots;
+import com.amazon.qa.tests.base.BaseTest;
+import com.amazon.qa.tests.drivers.WebDriverFactory;
+import com.amazon.qa.utils.ConfigHandler;
+import com.amazon.qa.utils.JSONFileManager;
+import com.amazon.qa.utils.ScreenShots;
 
 import java.io.File;
 import java.io.FileInputStream;

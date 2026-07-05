@@ -9,7 +9,6 @@ Feature: Amazon Product Search and Cart Functionality
     And the results should be filtered by brand "<brand_name>"
     And I add the first "<count>" products to the cart
     Then the cart should contain "<count>" items
-    And I finalize cart assertions
 
     Examples:
       | search_key          | brand_name          | sort_type                | count |

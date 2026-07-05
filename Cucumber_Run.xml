@@ -2,22 +2,22 @@
 <suite name="MySuite">
     <test name="Search Test">
         <classes>
-            <class name="tests.Search.SearchRunner"/>
+            <class name="com.amazon.qa.tests.search.SearchRunner"/>
         </classes>
     </test>
     <test name="Search Results Test">
         <classes>
-            <class name="tests.SearchResults.SearchResultsRunner"/>
+            <class name="com.amazon.qa.tests.searchResults.SearchResultsRunner"/>
         </classes>
     </test>
     <test name="Product Details Test">
         <classes>
-            <class name="tests.ProductDetails.ProductDetailsRunner"/>
+            <class name="com.amazon.qa.tests.product.ProductDetailsRunner"/>
         </classes>
     </test>
     <test name="Shopping Cart Test">
         <classes>
-            <class name="tests.Cart.CartRunner"/>
+            <class name="com.amazon.qa.tests.cart.CartRunner"/>
         </classes>
     </test>
 </suite>

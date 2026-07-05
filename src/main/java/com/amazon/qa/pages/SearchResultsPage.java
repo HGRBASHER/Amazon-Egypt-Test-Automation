@@ -1,4 +1,4 @@
-package org.example;
+package com.amazon.qa.pages;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -13,6 +13,8 @@ import java.time.Duration;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
+
+import static com.amazon.qa.utils.PriceUtils.parsePrice;
 
 public class SearchResultsPage extends BasePage {
     private static final Logger log = LogManager.getLogger(SearchResultsPage.class);
@@ -33,9 +35,13 @@ public class SearchResultsPage extends BasePage {
         super(driver);
     }
     public String getSearchTitleText() {
-        WebElement titleElement = wait.until(ExpectedConditions.visibilityOfElementLocated(searchTextSpan));
-        assert titleElement != null;
-        return titleElement.getText().replace("\"", "").trim();
+        try {
+            WebElement titleElement = wait.until(ExpectedConditions.visibilityOfElementLocated(searchTextSpan));
+            return titleElement.getText().replace("\"", "").trim();
+        } catch (Exception e) {
+            log.error("Search title span not found: {}", e.getMessage());
+            return "";
+        }
     }
     public int getProductsCount() {
         try {
@@ -202,10 +208,7 @@ public class SearchResultsPage extends BasePage {
 
             WebElement priceElement = targetCard.findElement(priceInCard);
             String priceText = Objects.requireNonNull(priceElement.getAttribute("textContent")).trim();
-
-            if (!priceText.isEmpty()) {
-                return Double.parseDouble(priceText.replaceAll("[^0-9.]", ""));
-            }
+            return parsePrice(priceText);
         } catch (Exception e) {
             log.warn("Could not parse price from search results at index {}: {}", index, e.getMessage());
         }
@@ -217,7 +220,7 @@ public class SearchResultsPage extends BasePage {
             this.openProductByIndex(index);
             if (productDetailsPage.isInstantAddToCartAvailable() || productDetailsPage.isAddToCartButtonValid()) {
                 return index;
-        }
+            }
             driver.navigate().back();
             index++;
         }
@@ -278,8 +281,6 @@ public class SearchResultsPage extends BasePage {
         JavascriptExecutor js = (JavascriptExecutor) driver;
         js.executeScript("arguments[0].scrollIntoView({block: 'center'});", pageButton);
         js.executeScript("arguments[0].click();", pageButton);
-
-        wait = new WebDriverWait(driver, Duration.ofSeconds(10));
         wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath(selectedPageLocator)));
     }
     public void applyGenderFilter(String genderName) {
@@ -293,22 +294,20 @@ public class SearchResultsPage extends BasePage {
         wait.until(ExpectedConditions.visibilityOfElementLocated(firstProductPicture));
     }
     public void addFirstNProductsToCart(int n) {
-        List<WebElement> cards = driver.findElements(productCards);
-        int count = Math.min(n, cards.size());
-        JavascriptExecutor js = (JavascriptExecutor) driver;
+        for (int i = 0; i < n; i++) {
+            List<WebElement> cards = driver.findElements(productCards);
+            if (i >= cards.size()) break;
 
-        for (int i = 0; i < count; i++) {
             try {
                 WebElement addToCartBtn = cards.get(i).findElement(addToCartButton);
-
-                js.executeScript("arguments[0].scrollIntoView({block: 'center'});", addToCartBtn);
+                ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView({block: 'center'});", addToCartBtn);
 
                 wait.until(ExpectedConditions.elementToBeClickable(addToCartBtn));
-                js.executeScript("arguments[0].click();", addToCartBtn);
-
+                ((JavascriptExecutor) driver).executeScript("arguments[0].click();", addToCartBtn);
                 wait.until(ExpectedConditions.stalenessOf(addToCartBtn));
+
             } catch (Exception e) {
-                log.error("Error adding product to cart: " + e.getMessage());
+                log.error("Error adding product at index {} to cart: {}", i, e.getMessage());
             }
         }
     }

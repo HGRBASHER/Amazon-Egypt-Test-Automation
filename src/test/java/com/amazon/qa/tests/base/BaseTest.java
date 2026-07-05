@@ -1,4 +1,4 @@
-package tests.com.amazon.qa.tests.base;
+package com.amazon.qa.tests.base;
 
 import com.amazon.qa.pages.CartPage;
 import com.amazon.qa.pages.ProductDetailsPage;
@@ -7,8 +7,8 @@ import com.amazon.qa.pages.SearchResultsPage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.asserts.SoftAssert;
-import utils.ConfigHandler;
-import utils.JSONFileManager;
+import com.amazon.qa.utils.ConfigHandler;
+import com.amazon.qa.utils.JSONFileManager;
 
 public class BaseTest {
     protected static SoftAssert softAssert;
