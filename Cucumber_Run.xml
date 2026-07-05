@@ -20,7 +20,4 @@
             <class name="com.amazon.qa.tests.cart.CartRunner"/>
         </classes>
     </test>
-    <listeners>
-        <listener class-name="utils.RetryTransformer"/>
-    </listeners>
 </suite>
